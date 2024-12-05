@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a passionate full-stack developer focused on building dynamic applications with React.js, Node.js, and EJS. Currently, I’m working on enhancing my skills in web development, blockchain, and mastering C++ and Data Structures and Algorithms. I am constantly learning new technologies like Express.js for backend development and enjoy collaborating on open-source projects. With a deep interest in competitive programming, I love solving complex problems and taking on new coding challenges.
+
+- **Passionate full-stack developer** skilled in **React.js**, **Node.js**, and **EJS**.  
+- Exploring **web development**, **blockchain**, and **C++/DSA** mastery.  
+- Learning **Express.js** and diving into **open-source collaboration**.  
+- Enthusiastic about **competitive programming** and solving challenging problems. 
 
 ---
 
