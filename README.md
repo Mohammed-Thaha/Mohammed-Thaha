@@ -46,12 +46,12 @@
 ---
 
 # 🏆 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/<mohammedthaha358>?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mohammedthaha358?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
 # 💻 CodeChef Stats: 
-[CodeChef Profile](https://www.codechef.com/users/<thaha0358>)
+[CodeChef Profile](https://www.codechef.com/users/thaha0358)
 
 ---
 
