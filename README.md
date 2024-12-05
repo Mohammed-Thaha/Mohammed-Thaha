@@ -45,15 +45,11 @@
 
 ---
 
-# 🏆 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/mohammedthaha358?theme=dark&font=Karma&ext=heatmap)
+# 🏆 GEEKSFORGEEKS Stats:
+![Geeksforgeeks_Stats](https://gfgstatscard.vercel.app/mohammedt31dn)
 
 ---
 
-# 💻 CodeChef Stats: 
-[CodeChef Profile](https://www.codechef.com/users/thaha0358)
-
----
 
 # 📊 Visitor Count:
 [![](https://visitcount.itsvg.in/api?id=Mohammed-Thaha&icon=0&color=0)](https://visitcount.itsvg.in)
