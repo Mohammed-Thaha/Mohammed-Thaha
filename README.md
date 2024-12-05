@@ -32,13 +32,12 @@ I am a passionate full-stack developer focused on building dynamic applications 
 ---
 
 # 🏆 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/<YourLeetCodeUsername>?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/<mohammedthaha358>?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
-# 💻 CodeChef Stats:
-![CodeChef Stats](https://cp-logo.vercel.app/codechef/<YourCodeChefUsername>)  
-[CodeChef Profile](https://www.codechef.com/users/<YourCodeChefUsername>)
+# 💻 CodeChef Stats: 
+[CodeChef Profile](https://www.codechef.com/users/<thaha0358>)
 
 ---
 
