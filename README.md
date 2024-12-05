@@ -45,10 +45,6 @@
 
 ---
 
-# 🏆 GEEKSFORGEEKS Stats:
-![Geeksforgeeks_Stats](https://gfgstatscard.vercel.app/mohammedt31dn)
-
----
 
 
 # 📊 Visitor Count:
