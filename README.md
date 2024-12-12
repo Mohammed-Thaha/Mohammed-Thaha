@@ -21,7 +21,7 @@
 
 
   <a href="https://www.instagram.com/codewithmt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:50%;">
+    <img src="https://img.shields.io/badge/Business%20Account-Link-blue?style=flat-square" style="border-radius:50%;">
   </a>
 
 </div>
