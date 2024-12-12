@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 <div align="center">
-  <a href="https://www.instagram.com/codewithmt" target="_blank">
+  <a href="https://www.instagram.com/itz__me__thaha" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:50%;">
   </a>
   <a href="https://linkedin.com/in/mohammed-thaha-webdev/" target="_blank">
@@ -18,6 +18,12 @@
   <a href="https://youtube.com/@TechwithMT-coding-channel" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius:50%;">
   </a>
+
+
+  <a href="https://www.instagram.com/codewithmt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:50%;">
+  </a>
+
 </div>
 
 ---
