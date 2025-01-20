@@ -18,7 +18,7 @@ Additionally, I actively contribute to open-source projects through another GitH
 
 
 # 📊 GitHub Stats:
-![mohammed-thaha's Stats](https://github-readme-stats.vercel.app/api?username=mohammed-thaha&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br/>
+![mohammed-thaha's Stats](https://github-readme-stats.vercel.app/api?username=mohammed-thaha&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) &nbps;&nbps;
 ![mohammed-thaha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-thaha&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
