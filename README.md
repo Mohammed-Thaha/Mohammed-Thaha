@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN Stack Developer passionate about web development, blockchain, and competitive programming. Mastering C++ for DSA and building impactful projects. Actively contributing to open-source:[ technologygeeks](https://github.com/technologygeeks)."
+MERN Stack Developer passionate about web development, blockchain, and competitive programming. Mastering C++ for DSA and building impactful projects.My Another Github Account:[ technologygeeks](https://github.com/technologygeeks)."
 ## 🌐 Connect with Me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/itz__me__thaha) 
