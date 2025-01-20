@@ -1,7 +1,5 @@
 # 💫 About Me:
-I am a passionate full-stack developer exploring the exciting worlds of web development, blockchain, and competitive programming. With a keen interest in mastering C++ for Data Structures and Algorithms, I thrive on solving challenging problems and constantly pushing my boundaries. My journey in tech includes building innovative projects, delving into the latest technologies, and honing my skills in problem-solving. I aim to combine creativity and logic to contribute to impactful solutions while inspiring others through my learning journey.
-
-Additionally, I actively contribute to open-source projects through another GitHub account, which is linked in my below, collaborating with the community to solve real-world problems and enhance my technical expertise.My Another Github link https://github.com/technologygeeks
+"MERN Stack Developer passionate about web development, blockchain, and competitive programming. Mastering C++ for DSA and building impactful projects. Actively contributing to open-source:[ technologygeeks](https://github.com/technologygeeks)."
 ## 🌐 Connect with Me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/itz__me__thaha) 
