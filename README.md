@@ -28,4 +28,4 @@ Here are some of the impactful projects I've contributed to under my professiona
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammed-thaha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Thaha&color=orange&style=for-the-badge)
