@@ -8,6 +8,13 @@ MERN Stack Developer passionate about web development, blockchain, and competiti
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/technologygeeks)  
 
 
+## 🏢 Professional Projects
+
+Here are some of the impactful projects I've contributed to under my professional account:
+
+- **[Deep Focus Timer](https://github.com/technologygeeks/deep-focus-timer)** - A productivity-enhancing application using JavaScript and Node.js, designed to help users focus with customizable focus and break intervals using the Pomodoro technique.
+👉 Check out my professional work at [technologygeeks](https://github.com/technologygeeks).
+
 
 
 # 💻 Tech Stack:
