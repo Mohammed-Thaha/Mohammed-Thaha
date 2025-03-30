@@ -1,7 +1,8 @@
 <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100%" height="200px"></img>
 # 💫 About Me:
+<div style="background-color:#212830";>
 🚀 I am currently working on: Web development, blockchain, and AI projects.<br><br>🤝 I am looking to collaborate on: Open-source projects and innovative web solutions.<br><br>💡 I am looking to help with: Web development, JavaScript, and problem-solving.<br><br>📚 I am currently learning: Advanced JavaScript, backend development, and blockchain.<br><br>💬 Ask me about: JavaScript, React, Node.js, and building scalable apps.<br><br>⚡ Fun fact: I believe debugging is just solving mysteries without a detective hat! 🕵️‍♂️
-
+</div>
 
 ## 🌐 **Socials:**  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz__me__thaha)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-thaha-webdev/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MohammedTh3092)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CodeWithMT-channel)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedthahacse@gmail.com)  
