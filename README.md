@@ -17,7 +17,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mohammed-thaha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-thaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏅 Certifications
+## Certifications
+
+### Postman Student Expert
 
 [![Postman Student Expert Badge](https://api.badgr.io/public/assertions/zd9GRQpDTMK-411J7-tCxA/image)](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fzd9GRQpDTMK-411J7-tCxA%3Fidentity__email%3Dmohammedthahacse%2540gmail.com)
 
