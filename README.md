@@ -6,7 +6,7 @@
 🚀 **Building** Web Development | App Development | AI Projects  
 🤝 **Collaborating** on Open-Source & Innovative Web Solutions  
 💡 **Helping** with Web Development | JavaScript | Problem-Solving  
-📚 **Learning** Advanced JavaScript | Backend Development | DevOps Tool 
+📚 **Learning** Advanced JavaScript | Backend Development | DevOps Tool.<br>
 💬 **Ask Me About** JavaScript | React | Node.js | Scalable Apps  
 ⚡ **Fun Fact** Debugging is solving mysteries—minus the detective hat! 🕵️‍♂️  
 </div>
