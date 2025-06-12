@@ -1,12 +1,12 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk3NDc5MTYsIm5iZiI6MTc0OTc0NzYxNiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjEyVDE3MDAxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiZWUzMGE0YWJhYzljYzkxNGU4ZGUxY2EzMDQzZTYxZjViN2NmNWRmYmU0ZGQxY2Y5ZWU4N2M1NDNiZjhlMjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.S7KJ3hws3dWPY5YSzO_rdK5RXVee4ceyzjlwDqZcLNU" width="100%" height="200px"></img>
+<img src="https://thaha-blog-image.netlify.app/assets/image-0.png" width="100%" height="200px"></img>
 
 # 💫 About Me:
 <div style="background-color:#212830"; width="500px">
 
-🚀 **Building** Web Development | Blockchain | AI Projects  
+🚀 **Building** Web Development | App Development | AI Projects  
 🤝 **Collaborating** on Open-Source & Innovative Web Solutions  
 💡 **Helping** with Web Development | JavaScript | Problem-Solving  
-📚 **Learning** Advanced JavaScript | Backend Development | Blockchain  
+📚 **Learning** Advanced JavaScript | Backend Development | DevOps Tool 
 💬 **Ask Me About** JavaScript | React | Node.js | Scalable Apps  
 ⚡ **Fun Fact** Debugging is solving mysteries—minus the detective hat! 🕵️‍♂️  
 </div>
