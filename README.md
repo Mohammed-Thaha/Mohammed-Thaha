@@ -1,7 +1,14 @@
-<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100%" height="200px"></img>
+<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk3NDc5MTYsIm5iZiI6MTc0OTc0NzYxNiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjEyVDE3MDAxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiZWUzMGE0YWJhYzljYzkxNGU4ZGUxY2EzMDQzZTYxZjViN2NmNWRmYmU0ZGQxY2Y5ZWU4N2M1NDNiZjhlMjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.S7KJ3hws3dWPY5YSzO_rdK5RXVee4ceyzjlwDqZcLNU" width="100%" height="200px"></img>
+
 # 💫 About Me:
 <div style="background-color:#212830"; width="500px">
-🚀 I am currently working on: Web development, blockchain, and AI projects.<br><br>🤝 I am looking to collaborate on: Open-source projects and innovative web solutions.<br><br>💡 I am looking to help with: Web development, JavaScript, and problem-solving.<br><br>📚 I am currently learning: Advanced JavaScript, backend development, and blockchain.<br><br>💬 Ask me about: JavaScript, React, Node.js, and building scalable apps.<br><br>⚡ Fun fact: I believe debugging is just solving mysteries without a detective hat! 🕵️‍♂️
+
+🚀 **Building** Web Development | Blockchain | AI Projects  
+🤝 **Collaborating** on Open-Source & Innovative Web Solutions  
+💡 **Helping** with Web Development | JavaScript | Problem-Solving  
+📚 **Learning** Advanced JavaScript | Backend Development | Blockchain  
+💬 **Ask Me About** JavaScript | React | Node.js | Scalable Apps  
+⚡ **Fun Fact** Debugging is solving mysteries—minus the detective hat! 🕵️‍♂️  
 </div>
 
 ## 🌐 **Socials:**  
@@ -13,8 +20,7 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohammed-thaha&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohammed-thaha&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohammed-thaha&theme=dark&hide_border=false)  &nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-thaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Certifications
