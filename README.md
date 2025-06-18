@@ -30,7 +30,11 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mongodb,react,express,nodejs,github,postman,docker,git,linux,vscode,npm,notion,vercel,vite&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mongodb,react,express,nodejs,github,postman,docker,git,linux,vscode,npm,notion,vercel,vite&perline=5" alt="My Skills">
+  </a>
+</p>
 
 
 # 📊 GitHub Stats:
