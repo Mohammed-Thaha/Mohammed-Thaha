@@ -35,7 +35,7 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-[<img 
+<img 
   src="https://nirzak-streak-stats.vercel.app/?user=mohammed-thaha&theme=react&hide_border=false" 
   alt="GitHub Streak Stats" 
   style="max-width: 100%; height: auto; flex: 1 1 400px; border-radius: 8px;"
