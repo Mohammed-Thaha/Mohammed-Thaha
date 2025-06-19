@@ -20,7 +20,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://dev.to/mohammed_thaha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hashnode" alt="Dev.to" />
+    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:mohammedthahacse@gmail.com" target="_blank">
