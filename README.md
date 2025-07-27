@@ -63,6 +63,9 @@
   <h3>Postman Student Expert</h3>
   <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fzd9GRQpDTMK-411J7-tCxA%3Fidentity__email%3Dmohammedthahacse%2540gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://api.badgr.io/public/assertions/zd9GRQpDTMK-411J7-tCxA/image" alt="Postman Student Expert Badge" width="200" height="200">
+  </a><space>
+  <a href="https://www.credly.com/badges/0d88093a-dcf6-40de-a0f8-5024aa6ab44f/public_url">
+    <img src="https://images.credly.com/size/220x220/images/d7840f4d-0217-4aa4-8cf4-e8bea30aef52/blob" width="200" height="200"/>
   </a>
 </div>
 
