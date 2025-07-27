@@ -39,11 +39,10 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-<img 
-  src="https://nirzak-streak-stats.vercel.app/?user=mohammed-thaha&theme=react&hide_border=false" 
+<img  src="https://nirzak-streak-stats.vercel.app/?user=mohammed-thaha&theme=react&hide_border=false" 
   alt="GitHub Streak Stats" 
   style="max-width: 100%; height: auto; flex: 1 1 400px; border-radius: 8px;"
-/>&nbsp;
+/>
 <img 
   src="https://github-readme-stats.vercel.app/api?username=mohammed-thaha&theme=react&show_icons=true&hide_border=false&count_private=false" 
   alt="GitHub Streak Stats" 
