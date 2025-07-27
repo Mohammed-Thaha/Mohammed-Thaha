@@ -43,24 +43,23 @@
   src="https://nirzak-streak-stats.vercel.app/?user=mohammed-thaha&theme=react&hide_border=false" 
   alt="GitHub Streak Stats" 
   style="max-width: 100%; height: auto; flex: 1 1 400px; border-radius: 8px;"
-/>
+/>&nbsp;
 <img 
   src="https://github-readme-stats.vercel.app/api?username=mohammed-thaha&theme=react&show_icons=true&hide_border=false&count_private=false" 
   alt="GitHub Streak Stats" 
   style="max-width: 100%; height: auto; flex: 1 1 400px; border-radius: 8px;"
 />
-<img 
+<!--   <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-thaha&theme=react&show_icons=true&hide_border=false&layout=compact" 
   alt="GitHub Top Languages" 
   style="max-width: 100%; height: auto; flex: 1 1 300px; border-radius: 8px;"
-/>
+/> -->
 </div>
 
 
 ## Certifications
 
 <div align="center">
-  <h3>Postman Student Expert</h3>
   <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fzd9GRQpDTMK-411J7-tCxA%3Fidentity__email%3Dmohammedthahacse%2540gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://api.badgr.io/public/assertions/zd9GRQpDTMK-411J7-tCxA/image" alt="Postman Student Expert Badge" width="200" height="200">
   </a><space>
