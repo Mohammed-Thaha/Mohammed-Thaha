@@ -49,11 +49,11 @@
   alt="GitHub Streak Stats" 
   style="max-width: 100%; height: auto; flex: 1 1 400px; border-radius: 8px;"
 />
-<!--   <img 
+  <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-thaha&theme=react&show_icons=true&hide_border=false&layout=compact" 
   alt="GitHub Top Languages" 
   style="max-width: 100%; height: auto; flex: 1 1 300px; border-radius: 8px;"
-/> -->
+/>
 </div>
 
 
