@@ -5,7 +5,7 @@
 <h1 align="center">🚀 Welcome to my GitHub!</h1>
 
 <p align="center">
-  <b>Hi, I’m <span style="color:#FF6C37;">Mohammed Thaha</span> — an Open Source Contributor, Web Developer, and Tech Enthusiast.</b>  
+  <b>Hi, I’m <span style="color:#FF6C37;">Mohammed Thaha</span> — an Open Source Contributor and Tech Enthusiast.</b>  
   <br/>
   <i>I love building innovative solutions, solving real-world challenges, and contributing to impactful open-source projects.</i>
 </p>
@@ -35,25 +35,6 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mongodb,postgres,react,express,nodejs,fastapi,github,postman,docker,terraform,git,linux,vscode,npm&perline=5" alt="My Skills">
   </a>
 </p>
-
-
-# 📊 GitHub Stats:
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-<img  src="https://nirzak-streak-stats.vercel.app/?user=mohammed-thaha&theme=react&hide_border=false" 
-  alt="GitHub Streak Stats" 
-  style="max-width: 100%; height: auto; flex: 1 1 400px; border-radius: 8px;"
-/>
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=mohammed-thaha&theme=react&show_icons=true&hide_border=false&count_private=false" 
-  alt="GitHub Streak Stats" 
-  style="max-width: 100%; height: auto; flex: 1 1 400px; border-radius: 8px;"
-/>
-  <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-thaha&theme=react&show_icons=true&hide_border=false&layout=compact" 
-  alt="GitHub Top Languages" 
-  style="max-width: 100%; height: auto; flex: 1 1 300px; border-radius: 8px;"
-/>
-</div>
 
 
 ## Certifications
