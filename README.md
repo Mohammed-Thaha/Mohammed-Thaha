@@ -29,13 +29,16 @@
 </p>
 
 
-# 💻 Tech Stack:
+#  Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mongodb,postgres,react,express,nodejs,fastapi,github,postman,docker,terraform,git,linux,vscode,npm&perline=5" alt="My Skills">
   </a>
 </p>
 
+
+## My Stats
+![mohammed-thaha's Stats](https://github-readme-stats.vercel.app/api?username=mohammed-thaha&theme=dark&show_icons=true&hide_border=true&count_private=false)
 
 ## Certifications
 
