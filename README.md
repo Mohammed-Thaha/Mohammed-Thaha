@@ -38,7 +38,9 @@
 
 
 ## My Stats
-![mohammed-thaha's Stats](https://github-readme-stats.vercel.app/api?username=mohammed-thaha&theme=dark&show_icons=true&hide_border=true&count_private=false)
+
+![mohammed-thaha's Stats](https://github-readme-stats.vercel.app/api?username=mohammed-thaha&theme=dark&show_icons=true&hide_border=true&count_private=false) <space>
+![mohammed-thaha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-thaha&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Certifications
 
