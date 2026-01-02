@@ -38,20 +38,29 @@
 
 
 ## My Stats
-
-![mohammed-thaha's Stats](https://github-readme-stats.vercel.app/api?username=mohammed-thaha&theme=dark&show_icons=true&hide_border=true&count_private=false) <space>
-![mohammed-thaha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-thaha&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mohammed-thaha?cardType=github&theme=react&fontFamily=Poppins&preferLogin=true" alt="My Awesome Stats" />
+  </a>
+</p>
 
 ## Certifications
 
-<div align="center">
-  <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fzd9GRQpDTMK-411J7-tCxA%3Fidentity__email%3Dmohammedthahacse%2540gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://api.badgr.io/public/assertions/zd9GRQpDTMK-411J7-tCxA/image" alt="Postman Student Expert Badge" width="200" height="200">
-  </a><space>
-  <a href="https://www.credly.com/badges/0d88093a-dcf6-40de-a0f8-5024aa6ab44f/public_url">
-    <img src="https://images.credly.com/size/220x220/images/d7840f4d-0217-4aa4-8cf4-e8bea30aef52/blob" width="200" height="200"/>
-  </a>
-</div>
+<h2>
+  <details>
+    <summary style="cursor: pointer;">view</summary>
+    <br/>
+    <div align="center">
+      <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fzd9GRQpDTMK-411J7-tCxA%3Fidentity__email%3Dmohammedthahacse%2540gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://api.badgr.io/public/assertions/zd9GRQpDTMK-411J7-tCxA/image" alt="Postman Student Expert Badge" width="200" height="200">
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.credly.com/badges/0d88093a-dcf6-40de-a0f8-5024aa6ab44f/public_url" target="_blank">
+        <img src="https://images.credly.com/size/220x220/images/d7840f4d-0217-4aa4-8cf4-e8bea30aef52/blob" width="200" height="200"/>
+      </a>
+    </div>
+  </details>
+</h2>
 
 
 ---
