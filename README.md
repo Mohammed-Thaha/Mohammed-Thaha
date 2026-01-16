@@ -58,6 +58,9 @@
       <a href="https://www.credly.com/badges/0d88093a-dcf6-40de-a0f8-5024aa6ab44f/public_url" target="_blank">
         <img src="https://images.credly.com/size/220x220/images/d7840f4d-0217-4aa4-8cf4-e8bea30aef52/blob" width="200" height="200"/>
       </a>
+       <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B12839155542758816F64992DCF4A412D6D07C97BFDB7F0388668A6CA8005602" target="_blank">
+        <img src="https://images.credly.com/size/160x160/images/8a21de98-f4f0-4aa8-b8fc-635e6dd67a08/OCI25AICFAV1_cached_image_20260116-31-fzfcmz.png" width="200" height="200"/>
+      </a>
     </div>
   </details>
 </h2>
