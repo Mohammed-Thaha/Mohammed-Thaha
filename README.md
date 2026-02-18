@@ -32,7 +32,7 @@
 #  Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mongodb,postgres,react,express,nodejs,fastapi,github,postman,docker,terraform,git,linux,vscode,npm&perline=5" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=cpp,java,go,python,html,css,js,mongodb,postgres,react,express,nodejs,fastapi,github,postman,docker,terraform,git,linux,npm&perline=5" alt="My Skills">
   </a>
 </p>
 
