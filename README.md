@@ -68,6 +68,18 @@
 ## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 05 March 2026 - To: 06 March 2026
+
+Total Time: 52 mins
+
+Go       40 mins               ███████████████████░░░░░░   75.78 %
+Docker   12 mins               ██████░░░░░░░░░░░░░░░░░░░   24.01 %
+JSON     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
