@@ -65,6 +65,10 @@
   </details>
 </h2>
 
+## Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammed-thaha&icon=3&color=0)](https://visitcount.itsvg.in)
