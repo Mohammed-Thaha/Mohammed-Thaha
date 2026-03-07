@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/1f/9c/10/1f9c10920abea2a2f69f9b7efbcaaf59.gif" width="100%" height="200px" alt="Banner GIF"/>
 </p>
 
-<h1 align="center">🚀 Welcome to my GitHub!</h1>
+<h1 align="center">Welcome to my GitHub!</h1>
 
 <p align="center">
   <b>Hi, I’m <span style="color:#FF6C37;">Mohammed Thaha</span> — an Open Source Contributor and Tech Enthusiast.</b>  
@@ -65,7 +65,7 @@
   </details>
 </h2>
 
-## Weekly Development Breakdown
+## Technical Progress Report
 
 <!--START_SECTION:waka-->
 
