@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 0"
+    - cron: "0 0 * * *"   # updates daily
 
 jobs:
   update-readme:
@@ -17,6 +17,6 @@ jobs:
           SHOW_TITLE: true
           SHOW_TOTAL: true
           SHOW_TIME: true
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
           LANG_COUNT: 10
           STOP_AT_OTHER: true
