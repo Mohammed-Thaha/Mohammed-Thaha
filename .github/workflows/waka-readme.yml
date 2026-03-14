@@ -16,6 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TIME: false
+          SHOW_TIME_RANGE: false
           SHOW_TOTAL: true
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
