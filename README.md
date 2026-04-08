@@ -70,15 +70,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2026 - To: 06 April 2026
+From: 31 March 2026 - To: 07 April 2026
 
-Total Time: 4 hrs 20 mins
+Total Time: 5 hrs 9 mins
 
-Makefile        1 hr 16 mins          ███████░░░░░░░░░░░░░░░░░░   28.32 %
-Go              1 hr 9 mins           ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
-Python          49 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
-Markdown        32 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-YAML            10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Go              1 hr 57 mins          █████████▒░░░░░░░░░░░░░░░   37.03 %
+Makefile        1 hr 16 mins          ██████░░░░░░░░░░░░░░░░░░░   23.96 %
+Python          49 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+Markdown        32 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+YAML            10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
