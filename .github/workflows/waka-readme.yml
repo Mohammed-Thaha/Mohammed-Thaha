@@ -18,6 +18,6 @@ jobs:
           SHOW_TIME: true
           SHOW_TIME_RANGE: true
           SHOW_TOTAL: true
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
           LANG_COUNT: 5
           STOP_AT_OTHER: true
