@@ -21,10 +21,3 @@ jobs:
           TIME_RANGE: all_time
           LANG_COUNT: 5
           STOP_AT_OTHER: true
-    COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: mohammed-thaha # optional
-          AUTHOR_EMAIL: mohammedthahacse@gmail.com # optional
