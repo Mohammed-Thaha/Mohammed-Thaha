@@ -70,15 +70,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2026 - To: 11 April 2026
+From: 05 March 2026 - To: 12 April 2026
 
-Total Time: 14 hrs 22 mins
+Total Time: 15 hrs 2 mins
 
-Go              4 hrs 6 mins          ███████░░░░░░░░░░░░░░░░░░   27.84 %
-Makefile        1 hr 20 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-YAML            1 hr 19 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-C++             1 hr 6 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-Docker          55 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Go              4 hrs 6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
+Makefile        1 hr 20 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+YAML            1 hr 19 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+C++             1 hr 6 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Docker          55 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:waka-->
