@@ -70,15 +70,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2026 - To: 09 May 2026
+From: 03 May 2026 - To: 10 May 2026
 
-Total Time: 4 hrs 13 mins
+Total Time: 4 hrs 53 mins
 
-Go           2 hrs 22 mins         ██████████████░░░░░░░░░░░   55.96 %
-Markdown     29 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Makefile     23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Bash         22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-TypeScript   20 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Go           2 hrs 3 mins          ██████████▒░░░░░░░░░░░░░░   41.56 %
+TypeScript   1 hr 3 mins           █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
+Markdown     42 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
+Bash         22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Makefile     16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
