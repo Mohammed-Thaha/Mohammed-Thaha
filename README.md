@@ -37,12 +37,6 @@
 </p>
 
 
-## My Stats
-<p align="center">
-  <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mohammed-thaha?cardType=github&theme=react&fontFamily=Poppins&preferLogin=true" alt="My Awesome Stats" />
-  </a>
-</p>
 
 ## Certifications
 
