@@ -64,15 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2026 - To: 18 May 2026
+From: 12 May 2026 - To: 19 May 2026
 
-Total Time: 3 hrs 28 mins
+Total Time: 2 hrs 32 mins
 
-Go           2 hrs 7 mins          ██████████████▒░░░░░░░░░░   57.71 %
-Bash         35 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
-JavaScript   14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-Markdown     11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-Other        11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Go           1 hr 37 mins          ██████████████▓░░░░░░░░░░   58.97 %
+Bash         34 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
+JavaScript   14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Other        11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
 ```
 
 <!--END_SECTION:waka-->
