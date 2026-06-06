@@ -59,6 +59,10 @@
   </details>
 </h2>
 
+## Technical Progress Report
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ---
