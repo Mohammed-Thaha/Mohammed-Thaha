@@ -62,6 +62,18 @@
 ## Technical Progress Report
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 30 May 2026 - To: 06 June 2026
+
+Total Time: 2 hrs 49 mins
+
+Go           1 hr 41 mins          ██████████████▓░░░░░░░░░░   58.37 %
+Markdown     29 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+C++          29 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+Other        4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+```
+
 <!--END_SECTION:waka-->
 
 
