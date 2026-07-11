@@ -40,25 +40,44 @@
 
 ## Certifications
 
-<h2>
-  <details>
-    <summary style="cursor: pointer;">view</summary>
-    <br/>
-    <div align="center">
-      <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fzd9GRQpDTMK-411J7-tCxA%3Fidentity__email%3Dmohammedthahacse%2540gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://api.badgr.io/public/assertions/zd9GRQpDTMK-411J7-tCxA/image" alt="Postman Student Expert Badge" width="200" height="200">
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://www.credly.com/badges/0d88093a-dcf6-40de-a0f8-5024aa6ab44f/public_url" target="_blank">
-        <img src="https://images.credly.com/size/220x220/images/d7840f4d-0217-4aa4-8cf4-e8bea30aef52/blob" width="200" height="200"/>
-      </a>
-       <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B12839155542758816F64992DCF4A412D6D07C97BFDB7F0388668A6CA8005602" target="_blank">
-        <img src="https://images.credly.com/size/160x160/images/8a21de98-f4f0-4aa8-b8fc-635e6dd67a08/OCI25AICFAV1_cached_image_20260116-31-fzfcmz.png" width="200" height="200"/>
-      </a>
-    </div>
-  </details>
-</h2>
+<details>
+  <summary><b>View Certifications</b></summary>
+  <br/>
 
+  <div align="center">
+    <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fzd9GRQpDTMK-411J7-tCxA%3Fidentity__email%3Dmohammedthahacse%2540gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://api.badgr.io/public/assertions/zd9GRQpDTMK-411J7-tCxA/image" alt="Postman Student Expert Badge" width="200" height="200">
+    </a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.credly.com/badges/0d88093a-dcf6-40de-a0f8-5024aa6ab44f/public_url" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/d7840f4d-0217-4aa4-8cf4-e8bea30aef52/blob" width="200" height="200"/>
+</a>
+
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B12839155542758816F64992DCF4A412D6D07C97BFDB7F0388668A6CA8005602" target="_blank">
+  <img src="https://images.credly.com/size/160x160/images/8a21de98-f4f0-4aa8-b8fc-635e6dd67a08/OCI25AICFAV1_cached_image_20260116-31-fzfcmz.png" width="200" height="200"/>
+</a>
+  </div>
+
+</details>
+
+## Open Source Contributions
+
+<details>
+  <summary><b>View Contributions</b></summary>
+  <br/>
+
+| Project | Contribution |
+|---------|--------------|
+| **Headlamp (CNCF Kubernetes SIGs)** | [#5519](https://github.com/kubernetes-sigs/headlamp/pull/5519) — Fixed Electron application shutdown behavior on Linux and Windows. *(v0.43.0)* |
+| **Docker CLI** | [#6913](https://github.com/docker/cli/pull/6913) — Added the `HealthStatus` formatter to `docker ps --format`. *(v29.5.0)* |
+| **OpenMetadata Docs** | [#168](https://github.com/open-metadata/docs-om/pull/168) — Fixed `curl` command formatting in Docker Compose documentation. |
+| **Canasta-Go** | [View merged PRs](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AMohammed-Thaha%20org%3ACanastaWiki&type=pullrequests) |
+| **Go Quests** | [#15](https://github.com/lite-quests/go-quests/pull/15) — Added green ANSI colors for successful test output. |
+
+</details>
+  
 ## Technical Progress Report
 
 <!--START_SECTION:waka-->
