@@ -83,15 +83,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 July 2026 - To: 22 July 2026
+From: 16 July 2026 - To: 23 July 2026
 
-Total Time: 12 hrs 32 mins
+Total Time: 8 hrs 41 mins
 
-C++           6 hrs 24 mins         ████████████▓░░░░░░░░░░░░   50.88 %
-Markdown      2 hrs 39 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
-WebAssembly   52 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-TypeScript    45 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-HTML          25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+C++           4 hrs 7 mins          ███████████▓░░░░░░░░░░░░░   47.14 %
+Markdown      2 hrs 4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+TypeScript    45 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+WebAssembly   36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Go            24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
