@@ -61,22 +61,6 @@
   </div>
 
 </details>
-
-## Open Source Contributions
-
-<details>
-  <summary><b>View Contributions</b></summary>
-  <br/>
-
-| Project | Contribution |
-|---------|--------------|
-| **Headlamp (CNCF Kubernetes SIGs)** | [#5519](https://github.com/kubernetes-sigs/headlamp/pull/5519) — Fixed Electron application shutdown behavior on Linux and Windows. *(v0.43.0)* |
-| **Docker CLI** | [#6913](https://github.com/docker/cli/pull/6913) — Added the `HealthStatus` formatter to `docker ps --format`. *(v29.5.0)* |
-| **OpenMetadata Docs** | [#168](https://github.com/open-metadata/docs-om/pull/168) — Fixed `curl` command formatting in Docker Compose documentation. |
-| **Canasta-Go** | [View merged PRs](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AMohammed-Thaha%20org%3ACanastaWiki&type=pullrequests) |
-| **Go Quests** | [#15](https://github.com/lite-quests/go-quests/pull/15) — Added green ANSI colors for successful test output. |
-
-</details>
   
 ## Technical Progress Report
 
