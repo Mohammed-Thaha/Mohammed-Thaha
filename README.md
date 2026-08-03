@@ -67,15 +67,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2026 - To: 01 August 2026
+From: 26 July 2026 - To: 02 August 2026
 
-Total Time: 6 hrs
+Total Time: 5 hrs 56 mins
 
-C++          2 hrs 18 mins         █████████▒░░░░░░░░░░░░░░░   37.75 %
-Go           1 hr 7 mins           ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
-Markdown     1 hr 3 mins           ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
-Makefile     48 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-JavaScript   17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+C++          1 hr 20 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
+Go           1 hr 18 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
+Markdown     52 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Lua          48 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Makefile     48 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
 ```
 
 <!--END_SECTION:waka-->
