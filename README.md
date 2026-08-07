@@ -67,15 +67,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2026 - To: 05 August 2026
+From: 30 July 2026 - To: 06 August 2026
 
-Total Time: 6 hrs 10 mins
+Total Time: 6 hrs 2 mins
 
-Go           1 hr 11 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
-Svelte       51 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-Lua          48 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-Makefile     48 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-Markdown     33 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Go           1 hr 11 mins          █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+Svelte       51 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
+Lua          48 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+Makefile     48 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
+Markdown     33 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
 ```
 
 <!--END_SECTION:waka-->
