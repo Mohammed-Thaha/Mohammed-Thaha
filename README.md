@@ -67,15 +67,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-Total Time: 3 hrs 49 mins
+Total Time: 3 hrs 31 mins
 
-Svelte       51 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
-Lua          48 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
-HTML         32 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
-JSON         21 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Markdown     20 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Svelte       51 mins               ██████░░░░░░░░░░░░░░░░░░░   24.46 %
+Lua          48 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
+HTML         32 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+JSON         21 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+TypeScript   18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
 ```
 
 <!--END_SECTION:waka-->
