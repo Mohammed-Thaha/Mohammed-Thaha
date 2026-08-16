@@ -61,10 +61,10 @@
   </div>
 
 </details>
-  
-<!--
+
+
 ## Technical Progress Report
--->
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
