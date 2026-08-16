@@ -67,6 +67,18 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 08 August 2026 - To: 15 August 2026
+
+Total Time: 2 hrs 55 mins
+
+TypeScript   59 mins               ████████▒░░░░░░░░░░░░░░░░   33.64 %
+Rust         47 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
+Markdown     27 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+JSON         9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+TOML         9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+```
+
 <!--END_SECTION:waka-->
 
 
