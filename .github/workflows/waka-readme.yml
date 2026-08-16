@@ -1,23 +1,23 @@
-# name: Waka Readme
+name: Waka Readme
 
-# on:
-#   workflow_dispatch:
-#   schedule:
-#     - cron: "0 0 * * *"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
-# jobs:
-#   update-readme:
-#     name: WakaReadme DevMetrics
-#     runs-on: ubuntu-latest
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
 
-#     steps:
-#       - uses: athul/waka-readme@master
-#         with:
-#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-#           SHOW_TITLE: true
-#           SHOW_TIME: true
-#           SHOW_TIME_RANGE: true
-#           SHOW_TOTAL: true
-#           TIME_RANGE: last_7_days
-#           LANG_COUNT: 5
-#           STOP_AT_OTHER: true
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TIME_RANGE: true
+          SHOW_TOTAL: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          STOP_AT_OTHER: true
