@@ -68,15 +68,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2026 - To: 01 September 2026
+From: 26 August 2026 - To: 02 September 2026
 
-Total Time: 5 hrs 13 mins
+Total Time: 3 hrs 21 mins
 
-Astro        52 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-HTML         44 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
-Markdown     40 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-TypeScript   38 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
-C            36 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+HTML         43 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.02 %
+C            36 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+Markdown     31 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
+JavaScript   30 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+Lua          22 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
 ```
 
 <!--END_SECTION:waka-->
