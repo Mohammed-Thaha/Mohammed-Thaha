@@ -63,25 +63,6 @@
 </details>
 
 
-## Technical Progress Report
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 27 August 2026 - To: 03 September 2026
-
-Total Time: 1 hr 35 mins
-
-C          34 mins               ████████▓░░░░░░░░░░░░░░░░   34.45 %
-HTML       24 mins               ██████░░░░░░░░░░░░░░░░░░░   24.09 %
-Lua        22 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
-Makefile   13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-Other      6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-```
-
-<!--END_SECTION:waka-->
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammed-thaha&icon=3&color=0)](https://visitcount.itsvg.in)
 
