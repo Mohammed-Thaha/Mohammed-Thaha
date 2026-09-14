@@ -67,6 +67,15 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 06 September 2026 - To: 13 September 2026
+
+Total Time: 25 mins
+
+TypeScript   24 mins               ████████████████████████░   96.22 %
+Other        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
