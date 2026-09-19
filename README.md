@@ -1,14 +1,18 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/1f/9c/10/1f9c10920abea2a2f69f9b7efbcaaf59.gif" width="100%" height="200px" alt="Banner GIF"/>
+<p>
+  <img src="https://i.pinimg.com/originals/1f/9c/10/1f9c10920abea2a2f69f9b7efbcaaf59.gif" width="100%" height="200px" alt="GitHub Banner"/>
 </p>
 
-<h1 align="center">Welcome to my GitHub!</h1>
+# Hey, I'm Mohammed Thaha 👋
 
-<p align="center">
-  <b>Hi, I’m <span style="color:#FF6C37;">Mohammed Thaha</span> — an Open Source Contributor and Tech Enthusiast.</b>  
-  <br/>
-  <i>I love building innovative solutions, solving real-world challenges, and contributing to impactful open-source projects.</i>
-</p>
+### Open Source Contributor | Developer | Tech Enthusiast
+
+I’m a Computer Science Engineering student passionate about building innovative solutions, solving real-world challenges, and contributing to impactful open-source projects.
+
+-  Exploring open-source development and new technologies.
+-  Interested in building useful applications and developer tools.
+-  Contributing to projects and learning by collaborating with the community.
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-thaha-webdev/" target="_blank">
@@ -29,12 +33,26 @@
 </p>
 
 
-#  Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,go,python,html,css,js,mongodb,postgres,react,express,nodejs,fastapi,github,postman,docker,terraform,git,linux,npm&perline=5" alt="My Skills">
-  </a>
-</p>
+## Featured Open Source Contributions
+
+| Project | Contribution | Impact |
+| :--- | :--- | :--- |
+| **[Podman Desktop](https://github.com/podman-desktop/podman-desktop)** | [PR #18627](https://github.com/podman-desktop/podman-desktop/pull/18627) | Improved UI accessibility for timestamp toggles. |
+| **[Kubernetes SIGs Headlamp](https://github.com/kubernetes-sigs/headlamp)** | [PR #5519](https://github.com/kubernetes-sigs/headlamp/pull/5519) | Handled Electron application lifecycle on Windows. |
+| **[Docker CLI](https://github.com/docker/cli)** | [PR #6913](https://github.com/docker/cli/pull/6913)  | Added the `HealthStatus` formatter field for containers. |
+| **[CanastaWiki – Canasta-Go](https://github.com/CanastaWiki/Canasta-Go)** | [PR #585](https://github.com/CanastaWiki/Canasta-Go/pull/585) | Added unit tests using `httptest` mocks. |
+
+
+## Tech Stack
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=cpp,go,lua,ts" alt="C++, Go, Lua, TypeScript"/>
+
+<!-- Cloud, Databases & APIs -->
+<img src="https://skillicons.dev/icons?i=aws,postgres,mongodb,postman" alt="AWS, PostgreSQL, MongoDB, Postman"/>
+
+<!-- DevOps & Infrastructure -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux" alt="Docker, Kubernetes, Terraform, Linux"/>
 
 
 
