@@ -19,13 +19,13 @@ I’m a Computer Science Engineering student passionate about building innovativ
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/itz__me__thaha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  <a href="https://stackoverflow.com/users/31232318/mohammed-thaha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://dev.to/mohammed_thaha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
-  </a>
+  <!-- &nbsp;&nbsp;
+  <a href="" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Dev.to" />
+  </a> -->
   &nbsp;&nbsp;
   <a href="mailto:mohammedthahacse@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
