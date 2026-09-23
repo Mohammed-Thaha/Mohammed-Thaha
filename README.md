@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/1f/9c/10/1f9c10920abea2a2f69f9b7efbcaaf59.gif" width="100%" height="200px" alt="GitHub Banner"/>
 </p>
 
-# Hey, I'm Mohammed Thaha 👋
+# Hey, I'm Mohammed Thaha 
 
 ### Open Source Contributor | Developer | Tech Enthusiast
 
