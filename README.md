@@ -86,15 +86,15 @@ I’m a Computer Science Engineering student passionate about building innovativ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2026 - To: 23 September 2026
+From: 17 September 2026 - To: 24 September 2026
 
-Total Time: 2 hrs 33 mins
+Total Time: 1 hr 52 mins
 
-TypeScript           56 mins               █████████▒░░░░░░░░░░░░░░░   37.08 %
-JSON                 53 mins               ████████▓░░░░░░░░░░░░░░░░   34.61 %
-Markdown             14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-TSConfig             14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-JavaScript           12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+TypeScript   43 mins               █████████▓░░░░░░░░░░░░░░░   38.75 %
+JSON         33 mins               ███████▒░░░░░░░░░░░░░░░░░   29.76 %
+Markdown     13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+JavaScript   12 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+TSConfig     8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
 ```
 
 <!--END_SECTION:waka-->
