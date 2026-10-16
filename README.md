@@ -86,15 +86,15 @@ I’m a Computer Science Engineering student passionate about building innovativ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2026 - To: 14 October 2026
+From: 08 October 2026 - To: 15 October 2026
 
-Total Time: 6 hrs 22 mins
+Total Time: 7 hrs
 
-C                 3 hrs 23 mins         █████████████▒░░░░░░░░░░░   52.98 %
-C++               1 hr 1 min            ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-Bash              36 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-Vala              32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Markdown          32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+C                 3 hrs 53 mins         █████████████▓░░░░░░░░░░░   55.20 %
+C++               1 hr 10 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+Bash              36 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Vala              32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+Markdown          32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
 ```
 
 <!--END_SECTION:waka-->
