@@ -86,15 +86,15 @@ I’m a Computer Science Engineering student passionate about building innovativ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2026 - To: 27 October 2026
+From: 21 October 2026 - To: 28 October 2026
 
-Total Time: 6 hrs 12 mins
+Total Time: 6 hrs 27 mins
 
-C++          1 hr 22 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
-Markdown     1 hr 8 mins           ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
-TypeScript   50 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
-JavaScript   35 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Svelte       31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+C++          1 hr 22 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
+Markdown     1 hr 8 mins           ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+TypeScript   1 hr 2 mins           ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+JavaScript   36 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Svelte       32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
 ```
 
 <!--END_SECTION:waka-->
